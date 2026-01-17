@@ -1,4 +1,5 @@
 //practical 6
+//ENC 222-0158/2024
 #include <iostream>
 #include <cstdlib>   // For rand() and srand()
 #include <ctime>     // For time()
@@ -41,3 +42,4 @@ int main() {
 
     return 0;
 }
+
